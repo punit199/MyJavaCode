@@ -1,4 +1,4 @@
-package arrry;
+package string;
 
 import java.util.HashMap;
 
