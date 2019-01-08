@@ -6,10 +6,10 @@ public class StringSpite {
             String str ="aabbccddbbchjhjhjbbbbb";
             String s [] = str.split("");
             String com = "bb";
-            int len = s.length;
+            int l = s.length;
             int k=0;
             int globel=0;
-            String result []= new String[len/2];
+            String result []= new String[l/2];
             for(int j=0;j<=result.length-1;j++)
             {
             	String r="";
