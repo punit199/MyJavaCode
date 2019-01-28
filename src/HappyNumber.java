@@ -29,7 +29,7 @@ public class HappyNumber {
 		catch(StackOverflowError s)
 		{
 			s.printStackTrace();
-			System.out.println(temp+" not a happy number");
+			System.out.println(temp+" is not a happy number");
 		}
 	}
 

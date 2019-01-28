@@ -19,11 +19,11 @@ public class StrongNumber {
 		}
 		if(temp==sum)
 		{
-			System.out.println(temp+" is strong number");
+			System.out.println(temp+" is a strong number");
 		}
 		else
 		{
-			System.out.println(temp+" is not strong number");
+			System.out.println(temp+" is a not strong number");
 		}
 
 	}
